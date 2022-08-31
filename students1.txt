@@ -1,0 +1,4 @@
+[Student{name='s1', enrollmentId=1, address='address1', city='city1'}
+, Student{name='s2', enrollmentId=2, address='address2', city='city2'}
+, Student{name='s3', enrollmentId=3, address='address3', city='city3'}
+]
