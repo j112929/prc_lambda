@@ -1,0 +1,7 @@
+If you want to push a local project to github,
+1)create a Readme.md in github
+2)use this command "git pull git@github.com:j112929/prc_lambda.git main" in local
+3)git push --set-upstream origin main
+4)git add .
+5)git commit -m "1st"
+6)git push
