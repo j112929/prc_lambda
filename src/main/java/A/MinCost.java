@@ -3,7 +3,7 @@ package A;
 import java.util.*;
 import java.util.concurrent.ArrayBlockingQueue;
 
-public class C {
+public class MinCost {
     public static int minCost(int[][] costs) {
         int minCost = 0;
         for (int i = 0; i < costs.length; i++) {

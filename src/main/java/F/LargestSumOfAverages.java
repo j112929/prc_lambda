@@ -1,6 +1,6 @@
 package F;
 
-public class E {
+public class LargestSumOfAverages {
     public static void main(String[] args) {
 
     }

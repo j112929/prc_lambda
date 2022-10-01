@@ -2,7 +2,7 @@ package G;
 
 import java.util.*;
 
-public class A {
+public class MaxEvents {
     /*
     Maximum Knowledge
     K: 最终结果有几条线组成

@@ -1,6 +1,6 @@
 package G;
 
-public class G {
+public class MaxWeight {
     public static void main(String[] args) {
 //        int n = 4;
 //        int[] weights = new int[]{2,4,4,5};
@@ -10,7 +10,7 @@ public class G {
         int[] weights = new int[]{3, 2, 2};
         int[] tasks = new int[]{3, 2, 2};
         int p = 9;
-        G g = new G();
+        MaxWeight g = new MaxWeight();
         int i = g.maxWeight(n, weights, tasks, p);
         System.out.println(i);
     }

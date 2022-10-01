@@ -3,7 +3,7 @@ package AB;
 import java.util.Arrays;
 import java.util.List;
 
-public class B {
+public class MiniMoveDir {
     public static void main(String[] args) {
         List<String> list = Arrays.asList("o/", "w/", "e/", "./", "./", "./");
 //                "x/","y/","../","z/","./");

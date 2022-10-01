@@ -1,4 +1,4 @@
-package B;
+package A;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 //import static Test.Reverse.reverse;
 
-public class Solution {
+public class ReverseSinglyLinkedList {
 
     private static final Scanner scanner = new Scanner(System.in);
 

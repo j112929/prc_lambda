@@ -1,6 +1,6 @@
 package G;
 
-public class F {
+public class GetMaxValue {
     long maxValue = Long.MIN_VALUE;
 
     public static void main(String[] args) {
@@ -9,7 +9,7 @@ public class F {
 //        int[] c = new int[]{3,5,7};
         int[] v = new int[]{1, 5, 3};
         int[] c = new int[]{4, 5, 7};
-        F f = new F();
+        GetMaxValue f = new GetMaxValue();
         long maxValue = f.getMaxValue(s, v, c);
         System.out.println(maxValue);
     }

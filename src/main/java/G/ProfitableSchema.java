@@ -1,6 +1,6 @@
 package G;
 
-public class E {
+public class ProfitableSchema {
     public static int profitableSchema(int G, int P, int[] groups, int[] profit) {
         int n = groups.length;
         int[][][] dp = new int[2][G + 1][P + 1];

@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class C {
+public class GetWinner {
     public static void main(String[] args) {
 //        Double.MAX_VALUE
 //                Integer.MAX_VALUE

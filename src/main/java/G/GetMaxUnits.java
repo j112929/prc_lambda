@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class B {
+public class GetMaxUnits {
     /*
     Efficient Shipping
     求最大容量
@@ -21,9 +21,9 @@ public class B {
             map.put(unitPerBox[i], boxes[i]);
         }
         Arrays.sort(unitPerBox);
-        for (int i = 0; i < n; i++) {
-            System.out.println(unitPerBox[i]);
-        }
+//        for (int i = 0; i < n; i++) {
+//            System.out.println(unitPerBox[i]);
+//        }
         int res = 0;
         int res_num = 0;
         int tmp = 0;

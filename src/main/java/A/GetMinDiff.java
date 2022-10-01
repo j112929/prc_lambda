@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class B {
+public class GetMinDiff {
     public static List<Integer> getMinDiff(List<String> a, List<String> b) {
         List<Integer> minDiffList = new ArrayList<>();
         if (a.size() == 0 || b.size() == 0) {

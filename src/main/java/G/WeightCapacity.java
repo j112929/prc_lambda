@@ -1,6 +1,6 @@
 package G;
 
-public class D {
+public class WeightCapacity {
     public static int weightCapacity(int[] weights, int maxCapacity) {
         boolean[] dp = new boolean[maxCapacity + 1];
         dp[0] = true;
